@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(254, 227, 231);
+}
+nav {
+    background-color: #81613c;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: rgb(254, 227, 231);
+    margin: 15px;
+    text-decoration: none;
+ }
+p {
+  font-size:22px;
+  font-family: fantasy;
+  color:#6b553b;
+}
+
+  P1 {
+  font-size: 22px;
+  font-family: fantasy;
+  color: #6b553b;
+}
+P2 {
+  font: size 22px;
+  font-family: fantasy;
+  color: #6b553b;
+}
+
+h1 {
+  font-size: 45px;
+  color: rgb(117, 117, 225);
+  font-family: Cursive;
+}
+h2 {
+  color: Magenta;
+  font-size:30px;
+}
+ul { 
+  font-size:17px;
+  color: #6b553b;
+}
+.gallery{
+  background-color: beige;
+}
+.photos {
+  background-color: lightcyan;
+}
+H3 {
+  color: magenta;
+  font-size:30px;
+}
+
+
+
+
+
