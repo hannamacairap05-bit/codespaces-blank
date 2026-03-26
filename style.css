@@ -2,7 +2,7 @@ body {
   background-color: rgb(254, 227, 231);
 }
 nav {
-    background-color: #81613c;
+    background-color: rgb(177, 151, 117);
     padding: 10px;
     text-align: center;
 }
@@ -14,18 +14,18 @@ nav a {
 p {
   font-size:22px;
   font-family: fantasy;
-  color:#6b553b;
+  color:white;
 }
 
   P1 {
   font-size: 22px;
   font-family: fantasy;
-  color: #6b553b;
+  color: white;
 }
 P2 {
   font: size 22px;
   font-family: fantasy;
-  color: #6b553b;
+  color: white;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h2 {
 }
 ul { 
   font-size:17px;
-  color: #6b553b;
+  color: white;
 }
 .gallery{
   background-color: beige;
@@ -51,7 +51,10 @@ H3 {
   color: magenta;
   font-size:30px;
 }
-
+body {
+  background-image: url("https://i.pinimg.com/736x/fa/f8/f7/faf8f7e0fe0dc9814d2e7f7d87ef4849.jpg");
+  background-size: 100vw 100vh
+}
 
 
 
