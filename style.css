@@ -56,6 +56,10 @@ body {
   background-image: url("https://i.pinimg.com/736x/fa/f8/f7/faf8f7e0fe0dc9814d2e7f7d87ef4849.jpg");
   background-size: 100vw 100vh
 }
+a:hover {
+  background-color: rgb(235, 123, 183);
+  font-size: 18px;
+}
 
 
 
